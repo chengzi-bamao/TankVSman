@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1927
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "鼠标选中-移动棋子", "鼠标选中-移动棋子\鼠标选中-移动棋子.vcxproj", "{1915D519-E0B9-4820-81A5-6560AEE3D3EB}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "大炮攻洋人_丐版1.1", "Setup1\Setup1.vdproj", "{2B064660-6F47-413F-9241-43B4C6D1288F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1915D519-E0B9-4820-81A5-6560AEE3D3EB}.Debug|x64.ActiveCfg = Debug|x64
+		{1915D519-E0B9-4820-81A5-6560AEE3D3EB}.Debug|x64.Build.0 = Debug|x64
+		{1915D519-E0B9-4820-81A5-6560AEE3D3EB}.Debug|x86.ActiveCfg = Debug|Win32
+		{1915D519-E0B9-4820-81A5-6560AEE3D3EB}.Debug|x86.Build.0 = Debug|Win32
+		{1915D519-E0B9-4820-81A5-6560AEE3D3EB}.Release|x64.ActiveCfg = Release|x64
+		{1915D519-E0B9-4820-81A5-6560AEE3D3EB}.Release|x64.Build.0 = Release|x64
+		{1915D519-E0B9-4820-81A5-6560AEE3D3EB}.Release|x86.ActiveCfg = Release|Win32
+		{1915D519-E0B9-4820-81A5-6560AEE3D3EB}.Release|x86.Build.0 = Release|Win32
+		{2B064660-6F47-413F-9241-43B4C6D1288F}.Debug|x64.ActiveCfg = Debug
+		{2B064660-6F47-413F-9241-43B4C6D1288F}.Debug|x86.ActiveCfg = Debug
+		{2B064660-6F47-413F-9241-43B4C6D1288F}.Release|x64.ActiveCfg = Release
+		{2B064660-6F47-413F-9241-43B4C6D1288F}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {104F26B4-F801-420A-8CD8-BABCBCBE920B}
+	EndGlobalSection
+EndGlobal
